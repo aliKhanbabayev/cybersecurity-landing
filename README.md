@@ -2,6 +2,8 @@
 
 Kibertəhlükəsizlik xidmətləri üçün tək səhifəlik, asılılıqsız landing səhifəsi. Başlıq: *"Security built into every system layer"*.
 
+> **Qeyd:** Bu, demo/şablon layihədir. Göstərilən statistikalar (300+ Clients, 99% Satisfaction, $5M+ Revenue) uydurmadır və real şirkətə aid deyil.
+
 ## Texnologiyalar
 
 - HTML, CSS və JavaScript (tək `index.html`, build addımı yoxdur)
